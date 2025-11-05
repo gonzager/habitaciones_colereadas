@@ -1,6 +1,4 @@
-# Exámen Técnico
-
-## Habitaciones coloreadas
+# Habitaciones coloreadas
 
 Un plano de planta es una representación abstracta del piso de un edificio y está definido por la distribución de las paredes y el espacio. Para este proyecto, los planos de planta están representados por caracteres ASCII, con paredes siendo "#" y espacios vacíos siendo " " (espacio en blanco).
 
